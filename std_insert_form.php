@@ -2,8 +2,11 @@
 <<!DOCTYPE html>
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link  rel="stylesheet" type="text/css" href="css/style.css">
- 
+
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="css/bootstrap.min.css"> 
 </head>
  
 <body>
