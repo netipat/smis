@@ -1,0 +1,209 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"resultSQL"
+			],
+			[
+				"mysqli_f",
+				"mysqli_fetch_array"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"conn",
+				"connect_db"
+			],
+			[
+				"n",
+				"num2"
+			],
+			[
+				"nu",
+				"num1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/AppServ/www/smis/include/function.php",
+		"/C/Users/SRIVITTAYA/Box Sync/ฝึก HTML5/script/bootstrap/bootstrap/css/bootstrap-responsive.css",
+		"/H/xampp/htdocs/smis/test_database_connect.php",
+		"/C/Users/SRIVITTAYA/Box Sync/ฝึก HTML5/script/bootstrap/bootstrap/css/bootstrap.css",
+		"/H/xampp/htdocs/index.php",
+		"/H/xampp/htdocs/smis/include/function.php",
+		"/H/server2go/htdocs/smis/include/function.php",
+		"/H/server2go/htdocs/smis/std_insert_form.php",
+		"/H/server2go/htdocs/smis/std_manage.php",
+		"/H/server2go/htdocs/smis/test_database_connect.php",
+		"/H/server2go/htdocs/smis/test1.php",
+		"/H/server2go/htdocs/smis/css/style.css",
+		"/C/wamp/www/smis/test4.php",
+		"/C/wamp/www/smis/include/function.php",
+		"/E/xampp/htdocs/smis/test.php",
+		"/E/xampp/phpMyAdmin/config.inc.php",
+		"/E/xampp/htdocs/smis/include/function.php",
+		"/E/xampp/htdocs/joomla3/index.php",
+		"/E/xampp/htdocs/joomla3/configuration.php",
+		"/E/xampp/htdocs/smis/_mmServerScripts/mysql.php",
+		"/E/xampp/htdocs/smis/Untitled-1.php",
+		"/E/xampp/htdocs/smis/Connections/MyConnect.php",
+		"/C/Users/SRIVITTAYA/Box Sync/ฝึก HTML5/test.html",
+		"/C/Users/SRIVITTAYA/Box Sync/ฝึก HTML5/test2",
+		"/C/Users/SRIVITTAYA/Box Sync/ฝึก HTML5/test.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Submit",
+			"ติดต่อฐานข้อมูลสำเร็จ"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "std_insert_form.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

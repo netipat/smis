@@ -1,0 +1,27 @@
+/* CSS Document */
+
+body{font: 13px/1.5 Tahoma;color: #F00}
+a{text-decoration: none}
+.txtRed{color: #F00}
+.txtBlue{color: #00F}
+.txtGreen{color: #050}
+.txtWhite{color: #FFF}
+ 
+.radius5{border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px}
+.shadow{box-shadow: 0 0 5px #000}
+ 
+table.mytable{width: 750px; margin: 20px 0; border-collapse: collapse}
+table.mytable caption{text-align: left; font-weight: 700; color: #F00}
+table.mytable th{background: #000; color: #FFF}
+table.mytable td, table.mytable th{border: 1px solid #EEE; padding: 3px 5px}
+table.mytable td{border-bottom: 1px solid #000}
+ 
+form{width: 700px}
+form fieldset{border: 1px solid #DDD}
+form legend{padding: 5px}
+form div{padding: 10px 0; border-bottom: 1px solid #EEE}
+form label{display: inline-block; width: 150px; text-align: right; padding-right: 10px}
+form input[type='text'], form input[type='password'], form textarea, form select{
+    border: 1px solid #DDD; width: 350px; padding: 5px; background: #EEE
+}
+form input[type='submit']{margin-left: 165px; width: 100px; height: 30px; cursor: pointer}
