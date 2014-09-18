@@ -12,17 +12,17 @@ function connect_db(){
 
 //ฟังก์ชั่นเลือกคณะ
 	
-	function class_select(){
+	function faculty_select(){
     $dblink = connect_db();
-    $strSQL = "SELECT cID, cName, cRoom, cEdu FROM tblclass";
+    $strSQL = "SELECT fID, fNameT FROM tblfaculty";
     $resultSQL = mysqli_query($dblink, $strSQL);
     
-    echo '<select name="cID">';
-    echo '<option value="">---------- เลือกระดับชั้น ----------</option>';
+    echo '<select name="fID">';
+    echo '<option value="">---------- เลือกคณะ ----------</option>';
     
     while($rows = mysqli_fetch_array($resultSQL)){
         
-        echo '<option value="'.$rows['cID'].'">'.$rows['cName'].'  ห้อง  '.$rows['cRoom'].'  ระดับ'.$rows['cEdu'].'</option>';
+        echo '<option value="'.$rows['fID'].'">'.$rows['fNameT'].'</option>';
         
     }
     
